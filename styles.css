@@ -29,6 +29,13 @@ nav > ul {
   background-color: #FFA7E0;
 }
 
+.nav-link  a {
+  border-right: 1px solid blue;
+  display: block;
+  padding: 1.2rem 1rem;
+  color: blue;
+}
+
 h1 {
   text-align: center;
   color: #FF83CF;
