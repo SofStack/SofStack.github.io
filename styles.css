@@ -36,7 +36,7 @@ table {
   font-size: 1em;
   background-color: #E0D2EF;
   border-spacing: 2px;
-  text-align: middle;
+  text-align: center;
 }
 
 thead {
@@ -45,16 +45,16 @@ thead {
   vertical-align: middle;
   border-color: #FFA7E0;
   font-size: 1em;
-   text-align: middle;
+  text-align: center;
 }
 
 tr {
   display: table-row;
-   text-align: middle;
+  text-align: center;
 }
 
 .name {
   font-family: monospace;
   background-color: #C0C0BE;
-   text-align: middle;
+  text-align: center;
 }
