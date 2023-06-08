@@ -10,6 +10,25 @@ body {
   text-align: center;
 }
 
+#nav-bar{
+  viewport: top;
+   display: flex;
+  list-style: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: #FFA7E0;
+}
+
+nav > ul {
+  display: flex;
+  list-style: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: #FFA7E0;
+}
+
 h1 {
   text-align: center;
   color: #FF83CF;
