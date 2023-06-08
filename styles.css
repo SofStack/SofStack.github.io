@@ -30,10 +30,10 @@ nav > ul {
 }
 
 .nav-link  a {
-  border-right: 1px solid blue;
+  border-right: 1px solid #E0D2EF;
   display: block;
   padding: 1.2rem 1rem;
-  color: blue;
+  color: #E0D2EF;
 }
 
 h1 {
