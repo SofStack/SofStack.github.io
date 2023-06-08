@@ -45,13 +45,16 @@ thead {
   vertical-align: middle;
   border-color: #FFA7E0;
   font-size: 1em;
+   text-align: middle;
 }
 
 tr {
   display: table-row;
+   text-align: middle;
 }
 
 .name {
   font-family: monospace;
   background-color: #C0C0BE;
+   text-align: middle;
 }
