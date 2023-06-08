@@ -1,0 +1,57 @@
+html {
+  display: block;
+}
+body {
+  font-family: Lucida, Georgia;
+  background-color: #F2F2F2;
+  display: block;
+  margin: 8px;
+}
+
+h1 {
+  text-align: center;
+  color: #FF83CF;
+  display: block;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+h2 {
+   text-align: center;
+  color: #FFA7E0;
+  display: block;
+  font-size: 1.7em;
+  font-weight: bold;
+}
+
+table {
+  border: 3px solid #FF83CF;
+  width: 750px;
+  margin: 0 auto;
+  display: table;
+  box-sizing: border-box;
+  text-wrap: wrap;
+  line-height: normal;
+  font-weight: normal;
+  font-size: 1em;
+  background-color: #E0D2EF;
+  border-spacing: 2px;
+  text-align: start;
+}
+
+thead {
+  background-color:#FFA7E0;
+  display: table-header-group;
+  vertical-align: middle;
+  border-color: #FFA7E0;
+  font-size: 1em;
+}
+
+tr {
+  display: table-row;
+}
+
+.name {
+  font-family: monospace;
+  background-color: #C0C0BE;
+}
