@@ -1,6 +1,7 @@
 html {
   display: block;
 }
+
 body {
   font-family: Lucida, Georgia;
   background-color: #F2F2F2;
@@ -22,6 +23,14 @@ h2 {
   color: #FFA7E0;
   display: block;
   font-size: 1.7em;
+  font-weight: bold;
+}
+
+p {
+   text-align: center;
+  color: #FFA7E0;
+  display: block;
+  font-size: 0.7em;
   font-weight: bold;
 }
 
