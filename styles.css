@@ -91,6 +91,19 @@ tr {
   vertical-align: middle;
 }
 
+td {
+    font-family: monospace;
+  background-color: #C0C0BE;
+  text-align: center;
+  vertical-align: middle;
+}
+
+td:hover {
+  background-color: #0c960c;
+  transition: background-color .15s, font-size .15s;
+  font-size: 18px;
+}
+
 .name {
   font-family: monospace;
   background-color: #C0C0BE;
