@@ -97,3 +97,10 @@ tr {
   text-align: center;
   vertical-align: middle;
 }
+
+.name:hover {
+  background-color: #0c960c;
+  transition: background-color .15s, font-size .15s;
+  font-size: 18px;
+}
+
