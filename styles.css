@@ -1,7 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
 /* Universal  Styles */
 
 html {
   display: block;
+}
+
+.container{
+  max-width: 960px;
+  margin: auto;
+}
+
+.flex{
+  display: flex;
 }
 
 /* Header */
@@ -50,6 +62,7 @@ body {
   display: block;
   margin: 8px;
   text-align: center;
+  line-height: 1.4rem;
 }
 
 
